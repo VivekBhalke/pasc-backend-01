@@ -1,0 +1,102 @@
+ [
+    {
+        "id": 1,
+        "title": "First Blog Post",
+        "author": "John Doe",
+        "date": "2024-02-15",
+        "upvotes": 10,
+        "imageurl": "https://example.com/image1.jpg",
+        "description": "This is the first blog post.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget nulla nec ligula consequat sodales. Integer nec dui non mi condimentum lacinia."
+    },
+    {
+        "id": 2,
+        "title": "Second Blog Post",
+        "author": "Jane Doe",
+        "date": "2024-02-14",
+        "upvotes": 20,
+        "imageurl": "https://example.com/image2.jpg",
+        "description": "This is the second blog post.",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+    },
+    {
+        "id": 3,
+        "title": "Third Blog Post",
+        "author": "John Smith",
+        "date": "2024-02-13",
+        "upvotes": 30,
+        "imageurl": "https://example.com/image3.jpg",
+        "description": "This is the third blog post.",
+        "content": "Nunc euismod, felis a venenatis eleifend, ligula ex egestas nunc, id tempus odio justo ut turpis. Proin eget magna nec eros lacinia aliquet."
+    },
+    {
+        "id": 4,
+        "title": "Fourth Blog Post",
+        "author": "Jane Smith",
+        "date": "2024-02-12",
+        "upvotes": 40,
+        "imageurl": "https://example.com/image4.jpg",
+        "description": "This is the fourth blog post.",
+        "content": "Praesent auctor, nunc ut tristique tincidunt, odio ex fermentum lacus, eget eleifend purus lorem et odio. Curabitur id enim vitae sapien eleifend vehicula."
+    },
+    {
+        "id": 5,
+        "title": "Fifth Blog Post",
+        "author": "John Doe",
+        "date": "2024-02-11",
+        "upvotes": 50,
+        "imageurl": "https://example.com/image5.jpg",
+        "description": "This is the fifth blog post.",
+        "content": "Aliquam erat volutpat. Nullam euismod, eros quis fringilla euismod, mi eros tincidunt magna, sit amet vestibulum justo enim ut felis."
+    },
+    {
+        "id": 6,
+        "title": "Sixth Blog Post",
+        "author": "Jane Doe",
+        "date": "2024-02-10",
+        "upvotes": 60,
+        "imageurl": "https://example.com/image6.jpg",
+        "description": "This is the sixth blog post.",
+        "content": "Suspendisse potenti. Donec id libero et nunc lacinia varius. In quis sapien ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    },
+    {
+        "id": 7,
+        "title": "Seventh Blog Post",
+        "author": "John Smith",
+        "date": "2024-02-09",
+        "upvotes": 70,
+        "imageurl": "https://example.com/image7.jpg",
+        "description": "This is the seventh blog post.",
+        "content": "Vivamus sed erat sit amet dui vehicula fringilla. Aliquam erat volutpat. Nullam euismod, eros quis fringilla euismod, mi eros tincidunt magna, sit amet vestibulum justo enim ut felis."
+    },
+    {
+        "id": 8,
+        "title": "Eighth Blog Post",
+        "author": "Jane Smith",
+        "date": "2024-02-08",
+        "upvotes": 80,
+        "imageurl": "https://example.com/image8.jpg",
+        "description": "This is the eighth blog post.",
+        "content": "Aliquam erat volutpat. Nullam euismod, eros quis fringilla euismod, mi eros tincidunt magna, sit amet vestibulum justo enim ut felis."
+    },
+    {
+        "id": 9,
+        "title": "Ninth Blog Post",
+        "author": "John Doe",
+        "date": "2024-02-07",
+        "upvotes": 90,
+        "imageurl": "https://example.com/image9.jpg",
+        "description": "This is the ninth blog post.",
+        "content": "Suspendisse potenti. Donec id libero et nunc lacinia varius. In quis sapien ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
+    },
+    {
+        "id": 10,
+        "title": "Tenth Blog Post",
+        "author": "Jane Doe",
+        "date": "2024-02-06",
+        "upvotes": 100,
+        "imageurl": "https://example.com/image10.jpg",
+        "description": "This is the tenth blog post.",
+        "content": "Vivamus sed erat sit amet dui vehicula fringilla. Aliquam erat volutpat. Nullam euismod, eros quis fringilla euismod, mi eros tincidunt magna, sit amet vestibulum justo enim ut felis."
+    }
+]
