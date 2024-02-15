@@ -17,9 +17,10 @@ mongoose.connect(url,connectionParams)
     .catch( (err) => {
         console.error(`Error connecting to the database. \n${err}`);
     })
+
 app.get("/getSingleBlog" , (req , res)=>{
     const id = req.query.id;
-    res.json({id : id});
+    
     fs.readFile('data.json', 'utf8', (err, data) => {
         if (err) {
             console.error(err);
@@ -29,6 +30,16 @@ app.get("/getSingleBlog" , (req , res)=>{
     
         const jsonData = JSON.parse(data);
         console.log(jsonData);
+        // res.json({array :jsonData })
+        for(var i = 0 ; i<jsonData.length ;i++)
+        {
+            if(jsonData[i].id == id)
+            {
+                return res.json({yourBlog : jsonData[i]});
+            }
+        }
+        return res.json({message : "incoreect id"})
+
     });
 
 
