@@ -3,7 +3,7 @@ const app = express();
 import fs from 'fs'
 import mongoose from 'mongoose'
 
-const url = `mongodb+srv://sample_user:demo@my-sample-cluster-b3ugy.mongodb.net/<dbname>?retryWrites=true&w=majority`;
+const url = `your url`
 
 const connectionParams={
     useNewUrlParser: true,
